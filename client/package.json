@@ -1,0 +1,40 @@
+{
+  "name": "irc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emoji-mart/data": "^1.0.2",
+    "@pusher/chatkit-client": "^1.14.1",
+    "@webscopeio/react-textarea-autocomplete": "^4.9.1",
+    "axios": "^0.27.2",
+    "dompurify": "^2.3.8",
+    "emoji-mart": "^5.1.0",
+    "emoji-picker-react": "^3.5.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-feather": "^2.0.10",
+    "react-input-emoji": "^4.1.0",
+    "react-mic": "^12.4.6",
+    "react-scripts": "2.1.1",
+    "react-tiny-bbcode": "^0.1.4",
+    "socket.io-client": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.17.12"
+  }
+}
